@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vallabhapurapuLavanya
 - 👀 I’m interested in  game development
-- 🌱 I’m currently working ad unity developer
+- 🌱 I’m currently working as unity developer
 -.
 - 📫 How to reach me 
     lavanya.vallabhapurapu@gmail.com
